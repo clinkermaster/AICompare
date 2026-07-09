@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="https://images.aicompare.tech/2026/07/cropped-AI-Compare-Web-Logo-1.webp" alt="AI Compare Logo" width="180">
+</p>
+
+# AI Compare
 # AICompare
 Compare the best AI tools for writing, coding, SEO, image generation, chatbots, productivity, and more.
 # AI Compare
